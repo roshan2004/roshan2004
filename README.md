@@ -1,3 +1,7 @@
+<p align="center">
+<img src="roshan.png" width="300">
+</p>
+
 ### Hi there 👋
 I am Roshan Shrestha, a PhD researcher at MMSB, CNRS, Lyon. My current research focuses on understanding nanoparticle drug delivery mechanisms using molecular dynamics simulations, particularly lipid-nanoparticle interactions and TM-domain protein-nanoparticle interactions in the lipid bilayer. 
 
