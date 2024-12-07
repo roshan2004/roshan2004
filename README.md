@@ -3,7 +3,8 @@
 </p>
 
 ### Hi there 👋
-I am Roshan Shrestha, a PhD researcher at MMSB, CNRS, Lyon. My current research focuses on understanding nanoparticle drug delivery mechanisms using molecular dynamics simulations, particularly lipid-nanoparticle interactions and TM-domain protein-nanoparticle interactions in the lipid bilayer. 
+I am Roshan Shrestha, a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
+
 
 <!--
 **roshan2004/roshan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
