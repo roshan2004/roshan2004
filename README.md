@@ -5,7 +5,7 @@
 ### Hi there 👋
 I am Roshan Shrestha, a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
 <p align="center">
-<img src="github.png" width="300">
+<img src="github.png" width="800">
 </p>
 
 
