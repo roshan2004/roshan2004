@@ -3,10 +3,7 @@
 </p>
 
 ### Hi there 👋
-I am Roshan Shrestha, a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
-<p align="center">
-<img src="github.png" width="800">
-</p>
+
 
 
 <!--
@@ -25,11 +22,13 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Roshan! 👋
 
-![Profile views](https://gpvc.arturio.dev/roshan2004)
 
 ## About Me
 
-I am a passionate developer with a keen interest in [mention your areas of interest or expertise, e.g., web development, data science, machine learning, etc.]. I enjoy working on challenging projects and learning new technologies.
+I am currently a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
+<p align="center">
+<img src="github.png" width="800">
+</p>
 
 ## Skills
 
