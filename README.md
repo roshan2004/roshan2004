@@ -31,10 +31,8 @@ I am currently a PhD researcher at MMSB, CNRS, Lyon. My research interests are i
 
 ## Skills
 
-- **Languages:** [List the programming languages you are proficient in, e.g., Python, JavaScript, Java, etc.]
-- **Frameworks and Libraries:** [List the frameworks and libraries you have experience with, e.g., React, Node.js, Django, etc.]
-- **Tools and Technologies:** [List the tools and technologies you use, e.g., Git, Docker, Kubernetes, etc.]
-- **Databases:** [List the databases you are familiar with, e.g., MySQL, PostgreSQL, MongoDB, etc.]
+- **Languages:** Python, JavaScript, C++, Fortran
+- **Databases:** MySQL
 
 ## Projects
 
