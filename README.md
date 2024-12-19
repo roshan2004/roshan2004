@@ -2,7 +2,6 @@
 <img src="roshan.png" width="300">
 </p>
 
-### Hi there 👋
 
 
 
