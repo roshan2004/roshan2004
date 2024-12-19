@@ -23,3 +23,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Roshan! 👋
+
+![Profile views](https://gpvc.arturio.dev/roshan2004)
+
+## About Me
+
+I am a passionate developer with a keen interest in [mention your areas of interest or expertise, e.g., web development, data science, machine learning, etc.]. I enjoy working on challenging projects and learning new technologies.
+
+## Skills
+
+- **Languages:** [List the programming languages you are proficient in, e.g., Python, JavaScript, Java, etc.]
+- **Frameworks and Libraries:** [List the frameworks and libraries you have experience with, e.g., React, Node.js, Django, etc.]
+- **Tools and Technologies:** [List the tools and technologies you use, e.g., Git, Docker, Kubernetes, etc.]
+- **Databases:** [List the databases you are familiar with, e.g., MySQL, PostgreSQL, MongoDB, etc.]
+
+## Projects
+
+Here are a few projects I have worked on:
+
+- [Project 1 Name](link to project repository): Brief description of what the project does.
+- [Project 2 Name](link to project repository): Brief description of what the project does.
+- [Project 3 Name](link to project repository): Brief description of what the project does.
+
+## GitHub Stats
+
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan2004&show_icons=true&theme=radical)
+
+## Contact Me
+
+- **Email:** [your email address]
+- **LinkedIn:** [your LinkedIn profile link]
+- **Twitter:** [your Twitter profile link]
+- **Personal Website:** [your personal website link]
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
