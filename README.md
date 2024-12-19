@@ -48,10 +48,10 @@ Here are a few projects I have worked on:
 
 ## Contact Me
 
-- **Email:** [your email address]
-- **LinkedIn:** [your LinkedIn profile link]
-- **Twitter:** [your Twitter profile link]
-- **Personal Website:** [your personal website link]
+- **Email:** roshanpra@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/roshanshrestha2004/
+- **Twitter:** https://x.com/roshan_shrestha
+- **Personal Website:** https://roshan2004.github.io/
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
