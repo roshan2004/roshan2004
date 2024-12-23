@@ -38,9 +38,9 @@ I am currently a PhD researcher at MMSB, CNRS, Lyon. My research interests are i
 
 Here are a few projects I have worked on:
 
-- [Project 1 Name](link to project repository): Brief description of what the project does.
-- [Project 2 Name](link to project repository): Brief description of what the project does.
-- [Project 3 Name](link to project repository): Brief description of what the project does.
+- [Martini 3 Fullerene](https://github.com/MoMS-MMSB/Martini3-Fullerene): Generates a Martini 3 model of Fullerene for running the molecular dynamics simulation with the Gromacs simulation package. The script outputs both the structure file (.gro) and a topology file (.itp).
+- [Martini 3 Graphene](): Generates a Martini 3 model of both finite and infinite graphene sheet for running the molecular dynamics simulation with the Gromacs simulation package. The script outputs both the structure file (.gro) and a topology file (.itp).
+
 
 ## GitHub Stats
 
