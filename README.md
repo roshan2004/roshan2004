@@ -39,7 +39,8 @@ I am currently a PhD researcher at MMSB, CNRS, Lyon. My research interests are i
 Here are a few projects I have worked on:
 
 - [Martini 3 Fullerene](https://github.com/MoMS-MMSB/Martini3-Fullerene): Generates a Martini 3 model of Fullerene for running the molecular dynamics simulation with the Gromacs simulation package. The script outputs both the structure file (.gro) and a topology file (.itp).
-- [Martini 3 Graphene](): Generates a Martini 3 model of both finite and infinite graphene sheet for running the molecular dynamics simulation with the Gromacs simulation package. The script outputs both the structure file (.gro) and a topology file (.itp).
+- [Martini 3 Graphene](https://github.com/MoMS-MMSB/Martini3-Graphene): Generates a Martini 3 model of both finite and infinite graphene sheet for running the molecular dynamics simulation with the Gromacs simulation package. The script outputs both the structure file (.gro) and a topology file (.itp).
+- [kmers](https://github.com/roshan2004/kmers): Counting K-mers from the sequence in fasta format.
 
 
 ## GitHub Stats
