@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am currently a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
+I am currently a Research Engineer at Materialise NV, Leuven. Previously, I was a PhD researcher at MMSB, CNRS, Lyon. My research interests are in the computational modeling of biological macromolecules and nanomaterials, employing biophysical principles and molecular dynamics simulations to understand complex molecular systems and their interactions at the nanoscale.
 <p align="center">
 <img src="github.png" width="800">
 </p>
