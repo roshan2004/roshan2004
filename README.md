@@ -43,9 +43,7 @@ Here are a few projects I have worked on:
 - [kmers](https://github.com/roshan2004/kmers): Counting K-mers from the sequence in fasta format.
 
 
-## GitHub Stats
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan2004&show_icons=true&theme=radical)
 
 ## Contact Me
 
